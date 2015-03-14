@@ -1,0 +1,89 @@
+/* 
+    Created on : 13 Mar, 2015, 12:52:00 AM
+    Author     : raj
+*/
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-shadow: 1px 1px #FFFFFF;
+    font-size: 28px;
+    color:#DC143C;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.site-index {
+    padding-top:20px;
+}
+
+#registration-form {
+    background-color: #EFEFEF;
+    border-radius: 10px;
+    padding:20px;
+}
+
+.caption {
+    font-size:50px;
+    text-align: center;
+}
+
+.logo-img {
+    width:75px;
+    float:left;
+}
+
+.status-bar {
+    position:fixed;
+    bottom:0px;
+    height:60px;
+    padding-top:10px;
+    background-color: #DC143C;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+}
+
+.status-bar h3 {
+    color:#FFFFFF;
+    text-shadow: 1px 1px #000000;
+}
+
+.status {
+    border-right:1px solid #EFEFEF;
+    text-align: center;
+}
+
+.status-last {
+    text-align: center;
+}
+
+.btn-success {
+    background-color:#DC143C;
+    border-color:#DC143C;
+}
+
+@media (max-width: 500px) {
+    h3 {
+        font-size:16px;
+    }
+}
+
+.wrap {
+    background-image: url('../images/bg.png')
+}
+
+.success-alert {
+    min-height:200px;
+    padding:25px;
+    margin-top:50px;
+}
+
+.site-login {
+    background-color: #FFFFFF;
+    
+}

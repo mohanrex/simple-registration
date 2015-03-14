@@ -1,0 +1,403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"gri",
+				"GridView"
+			],
+			[
+				"acce",
+				"AccessControl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "controllers/RegistrationController.php",
+			"settings":
+			{
+				"buffer_size": 3664,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/registration/index.php",
+			"settings":
+			{
+				"buffer_size": 4535,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/site/login.php",
+			"settings":
+			{
+				"buffer_size": 1298,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "web/css/style.css",
+			"settings":
+			{
+				"buffer_size": 1288,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 148.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/raj/projects/googleworkshop",
+		"/home/raj/projects/googleworkshop/config",
+		"/home/raj/projects/googleworkshop/controllers",
+		"/home/raj/projects/googleworkshop/models",
+		"/home/raj/projects/googleworkshop/views",
+		"/home/raj/projects/googleworkshop/views/registration",
+		"/home/raj/projects/googleworkshop/views/site",
+		"/home/raj/projects/googleworkshop/web",
+		"/home/raj/projects/googleworkshop/web/css"
+	],
+	"file_history":
+	[
+		"/home/raj/projects/googleworkshop/views/site/login.php",
+		"/home/raj/projects/googleworkshop/models/User.php",
+		"/home/raj/projects/googleworkshop/models/LoginForm.php",
+		"/home/raj/projects/googleworkshop/controllers/SiteController.php",
+		"/home/raj/projects/googleworkshop/config/db.php",
+		"/home/raj/projects/googleworkshop/views/registration/index.php",
+		"/home/raj/projects/googleworkshop/views/site/index.php",
+		"/home/raj/projects/googleworkshop/config/web.php",
+		"/public/work/Projects/drtpl/backend/views/employees/index.php",
+		"/home/raj/projects/googleworkshop/composer.json",
+		"/home/raj/projects/googleworkshop/controllers/RegistrationController.php",
+		"/home/raj/projects/tamilbay/protected/views/kavithai/view.php",
+		"/home/raj/projects/googleworkshop/web/css/style.css",
+		"/home/raj/projects/googleworkshop/views/layouts/main.php",
+		"/home/raj/projects/tamilbay/protected/views/cinema/galleryview.php",
+		"/home/raj/projects/tamilbay/protected/views/cinema/view.php",
+		"/home/raj/projects/tamilbay/protected/views/business/view.php",
+		"/home/raj/projects/tamilbay/protected/views/anmigam/raasiview.php",
+		"/home/raj/projects/tamilbay/protected/views/announcement/view.php",
+		"/home/raj/projects/tamilbay/protected/views/anmigam/view.php",
+		"/home/raj/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/raj/projects/tamilbay/protected/controllers/SiteController.php",
+		"/home/raj/projects/tamilbay/css/videoCarousel.css",
+		"/home/raj/projects/tamilbay/protected/components/Controller.php",
+		"/home/raj/projects/tamilbay/framework/messages/config.php",
+		"/home/raj/projects/tamilbay/js/custom.js",
+		"/home/raj/projects/tamilbay/css/print.css",
+		"/home/raj/projects/tamilbay/css/anmigam/pager-most-read.css",
+		"/home/raj/projects/tamilbay/nbproject/project.properties",
+		"/home/raj/projects/tamilbay/admin/assets/525a04c4/js/highcharts/adapters/prototype-adapter.js",
+		"/home/raj/projects/tamilbay/protected/tests/WebTestCase.php",
+		"/home/raj/projects/tamilbay/protected/models/CinemaTag.php",
+		"/home/raj/projects/tamilbay/protected/config/test.php",
+		"/home/raj/projects/tamilbay/protected/models/DayHistory.php",
+		"/home/raj/projects/tamilbay/protected/.htaccess",
+		"/home/raj/projects/tamilbay/protected/commands/ArticleImageResizeCommand.php",
+		"/home/raj/projects/tamilbay/protected/controllers/NewsController.php",
+		"/home/raj/projects/tamilbay/protected/controllers/RatingcommentController.php",
+		"/home/raj/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/raj/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"text-shadow",
+			"sharethis"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "controllers/RegistrationController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2051,
+								2051
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 778.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/registration/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								702,
+								702
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/site/login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "web/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1286,
+								1286
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 714.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "gwshop-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"view",
+				"protected/views/anmigam/view.php"
+			],
+			[
+				"controllers",
+				"protected/controllers/SiteController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
